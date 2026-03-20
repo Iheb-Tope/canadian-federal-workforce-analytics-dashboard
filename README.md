@@ -1,8 +1,5 @@
 # Canadian Federal Workforce Analytics Dashboard
 
-## Subtitle
-A public-sector HR reporting case study using Canadian federal workforce data.
-
 ## Project Overview
 This project analyzes publicly available Canadian federal public service workforce data to support HR reporting and workforce planning. It focuses on workforce size, department distribution, tenure structure, age profile, and geographic distribution across the federal public service.
 
